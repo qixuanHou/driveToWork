@@ -1,4 +1,9 @@
 # driveToWork
+### Steps
+* delete weekends data 
+* apply smoothing function with cyclic, smooth and plot the data
+* apply CUSUM to find the change point
+
 ### challenges
 * it is hard to find good data source
 
